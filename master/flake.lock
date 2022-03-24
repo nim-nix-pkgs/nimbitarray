@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-nimbitarray-master": "src-nimbitarray-master"
+        "src-bitarray-master": "src-bitarray-master"
       }
     },
-    "src-nimbitarray-master": {
+    "src-bitarray-master": {
       "flake": false,
       "locked": {
         "lastModified": 1630693135,
