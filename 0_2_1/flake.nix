@@ -11,6 +11,7 @@
   inputs.src-bitarray-0_2_1.ref   = "refs/tags/0.2.1";
   inputs.src-bitarray-0_2_1.owner = "YesDrX";
   inputs.src-bitarray-0_2_1.repo  = "bitarray";
+  inputs.src-bitarray-0_2_1.dir   = "";
   inputs.src-bitarray-0_2_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
