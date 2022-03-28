@@ -11,7 +11,6 @@
   inputs.src-bitarray-master.ref   = "refs/heads/master";
   inputs.src-bitarray-master.owner = "YesDrX";
   inputs.src-bitarray-master.repo  = "bitarray";
-  inputs.src-bitarray-master.dir   = "";
   inputs.src-bitarray-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
